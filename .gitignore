@@ -1,0 +1,67 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Dependency directories
+node_modules/
+.env             # Environment variables file
+
+# Log files
+*.log
+
+# Python bytecode
+*.pyc
+*.pyo
+
+# Test coverage
+coverage/
+*.cover
+*.hypothesis/
+
+# Pytest cache
+.cache
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Flask instance folder
+instance/
+
+# Django migrations
+migrations/
+
+# Databases
+*.sqlite3
+*.db
+
+# Pyre type checker
+.pyre/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Other project specific files (e.g., if using other services)
+*.bak
