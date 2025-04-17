@@ -76,11 +76,8 @@ Ensure you have Python 3.7+ installed on your system.
     - Datamuse API (for keyword suggestions).
     - Quotable.io API (for including quotes).
 
-### Step 2: Configure `.env`
-Once you have your API keys, create a `.env` file in the root directory and add the following entries:
-```env
-GEMINI_API_KEY=your-gemini-api-key
-NEWSDATA_API_KEY=your-newsdata-api-key
+### Example Blog Output
+```Output
 
 
 Example Blog Output
