@@ -18,7 +18,7 @@ Ensure you have Python 3.7+ installed on your system.
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/Sonali-Singh31/Blog_writer.git
-    cd agentic-python-blog-writer
+    cd Blog_writer
     ```
 
 2. **Install dependencies**:
